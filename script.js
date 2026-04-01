@@ -32,5 +32,5 @@ sections.forEach(section => {
 
 // Botón de contacto rápido
 function contactMe() {
-    alert("You can contact me at: villadifran@gmail.com");
+    alert("You can contact me at: e-mail: villadifran@gmail.com and Phone: +54 11 40257257");
 }

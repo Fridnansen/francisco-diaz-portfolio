@@ -1,8 +1,8 @@
 # Francisco Díaz Villarreal
 
-Software Engineer | Full Stack Developer | Game Developer
+Software Engineer | Full Stack Developer | Chess-Based Systems | Data & Game Specialist
 
-PhD in Applied Sciences with experience building scalable
+Software Engineer with experience building scalable
 software systems, full stack applications and game engines.
 
 ## Technical Skills
